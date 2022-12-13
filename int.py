@@ -2,6 +2,8 @@ from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QGridLayout, QLa
 import sys
 import socket
 
+#https://github.com/guilhot-emilie/exam.R309
+
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
